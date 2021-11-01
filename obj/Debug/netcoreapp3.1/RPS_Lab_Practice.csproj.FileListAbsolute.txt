@@ -1,0 +1,14 @@
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\bin\Debug\netcoreapp3.1\RPS_Lab_Practice.exe
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\bin\Debug\netcoreapp3.1\RPS_Lab_Practice.deps.json
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\bin\Debug\netcoreapp3.1\RPS_Lab_Practice.runtimeconfig.json
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\bin\Debug\netcoreapp3.1\RPS_Lab_Practice.runtimeconfig.dev.json
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\bin\Debug\netcoreapp3.1\RPS_Lab_Practice.dll
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\bin\Debug\netcoreapp3.1\RPS_Lab_Practice.pdb
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\obj\Debug\netcoreapp3.1\RPS_Lab_Practice.csproj.AssemblyReference.cache
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\obj\Debug\netcoreapp3.1\RPS_Lab_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\obj\Debug\netcoreapp3.1\RPS_Lab_Practice.AssemblyInfoInputs.cache
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\obj\Debug\netcoreapp3.1\RPS_Lab_Practice.AssemblyInfo.cs
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\obj\Debug\netcoreapp3.1\RPS_Lab_Practice.csproj.CoreCompileInputs.cache
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\obj\Debug\netcoreapp3.1\RPS_Lab_Practice.dll
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\obj\Debug\netcoreapp3.1\RPS_Lab_Practice.pdb
+C:\Users\HPHAN1\devbuild\Practice\RPS_Lab_Practice\obj\Debug\netcoreapp3.1\RPS_Lab_Practice.genruntimeconfig.cache
